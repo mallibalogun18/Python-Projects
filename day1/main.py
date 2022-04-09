@@ -10,8 +10,8 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-name = 'Hello World!'
+variable = 'Hello World!'
 if __name__ == '__main__':
-    print_hi(name)
-
+    print_hi(variable)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print('\n Welcome to the Python World!!')
